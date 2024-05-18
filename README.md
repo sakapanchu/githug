@@ -29,3 +29,6 @@ Sign up on the OpenWeatherMap website and get your API key.
 Open the script.js file.
 Replace the placeholder YOUR_API_KEY_HERE with your actual API key.
 
+![Screenshot 2024-05-18 204932](https://github.com/sakapanchu/githug/assets/117504870/01268976-50bc-4235-85eb-f40d055846b4)
+
+
